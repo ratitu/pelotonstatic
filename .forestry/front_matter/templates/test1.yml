@@ -23,5 +23,3 @@ fields:
     schema:
       format: markdown
   label: ttttt
-pages:
-- content/draft2.md
