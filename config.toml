@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://pelotonbicicletaria.com.br/"
+languageCode = "pt-br"
+title = "Peloton Bicicletaria - Barão Geraldo - Campinas/SP"
+theme = "omega"
