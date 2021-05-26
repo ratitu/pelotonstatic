@@ -1,4 +1,16 @@
 ---
 label: test1
 hide_body: false
-fields: []
+fields:
+- name: peloton_bicicletaria
+  type: text
+  config:
+    required: false
+  label: PELOTON BICICLETARIA
+- name: endereco
+  type: blocks
+  label: endereço
+  template_types: []
+  config:
+    min: 
+    max: 
