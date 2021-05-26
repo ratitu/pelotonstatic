@@ -4,3 +4,9 @@
 [submodule "themes/pico"]
 	path = themes/pico
 	url = https://github.com/negrel/hugo-theme-pico.git
+[submodule "themes/tanka"]
+	path = themes/tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
+[submodule "themes/redgood"]
+	path = themes/redgood
+	url = https://github.com/urjaacharya/redgood.git
