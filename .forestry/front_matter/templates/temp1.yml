@@ -14,3 +14,4 @@ fields:
   description: aaaaaa
 pages:
 - content/page1.md
+- content/pic.md
