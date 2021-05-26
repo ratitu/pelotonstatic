@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: ratz
   description: aaaaaa
+pages:
+- content/page1.md
