@@ -1,7 +1,7 @@
 +++
 endereco = []
 peloton_bicicletaria = "bike"
-ttttt = "**ffffffffffffffffffffff**"
+ttttt = "**![](/uploads/banneroficial_new.jpg)ffffffffffffffffffffff**"
 
 +++
 sssssssss
