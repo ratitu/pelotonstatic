@@ -1,4 +1,10 @@
 ---
 label: t1
 hide_body: false
-fields: []
+fields:
+- name: lab
+  type: text
+  config:
+    required: false
+  label: lab
+  description: name
