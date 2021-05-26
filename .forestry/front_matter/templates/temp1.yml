@@ -1,4 +1,14 @@
 ---
 label: temp1
 hide_body: false
-fields: []
+fields:
+- name: ratz
+  type: textarea
+  default: dddd
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: ratz
+  description: aaaaaa
