@@ -1,4 +1,19 @@
 ---
 label: template1
 hide_body: true
-fields: []
+fields:
+- name: label
+  type: text
+  config:
+    required: false
+  label: label
+  hidden: false
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text
