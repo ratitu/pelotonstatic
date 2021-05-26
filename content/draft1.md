@@ -1,5 +1,0 @@
-+++
-label = "peloton"
-text = "bike"
-
-+++
