@@ -14,5 +14,15 @@ fields:
   config:
     min: 
     max: 
+- name: ttttt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: ttttt
 pages:
+- content/draft1.md
 - content/tt.md
