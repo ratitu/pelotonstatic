@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title = "PELOTON BICICLETARIA"
 baseURL = "https://example.com"
 languageCode = "en-us"
@@ -45,3 +46,9 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/bannerOficial_new.jpg"
   recent_posts_number = 2
+=======
+baseURL = "http://pelotonbicicletaria.com.br/"
+languageCode = "pt-br"
+theme = "ananke"
+title = "Peloton Bicicletaria - Barão Geraldo - Campinas/SP"
+>>>>>>> 8f71a39bf9aeb1f13673c720454d57c6ba47c1bb

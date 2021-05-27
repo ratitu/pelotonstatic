@@ -1,0 +1,10 @@
+---
+label: t1
+hide_body: false
+fields:
+- name: lab
+  type: text
+  config:
+    required: false
+  label: lab
+  description: name
