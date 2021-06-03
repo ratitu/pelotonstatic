@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 resources = []
 title = "1post"
 pubdate = "now"
